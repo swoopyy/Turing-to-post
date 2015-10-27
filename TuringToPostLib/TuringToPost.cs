@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Lib;
 using System.Collections.Generic;
 
@@ -46,7 +46,6 @@ namespace TuringToPostLib
 
         private static string getCode(int number, int length, string state)
         {
-            //if (state == "_") return "   ";
             string s="";
 
             for(;number>0;number/=2)
@@ -84,8 +83,6 @@ namespace TuringToPostLib
                 if (values[i] == "_")
                     spcvalue = i;
             }
-
-           // Console.WriteLine(values[spcvalue]); Console.ReadKey();
             string t = codes[spccode];
             codes[spccode] = codes[spcvalue];
             codes[spcvalue] = t;
@@ -197,14 +194,14 @@ namespace TuringToPostLib
                }
            }
 
-           string[] s1 = PostCommands.CreateRightCommand(++index); // здесь можно поправить, но не обязательно
+           string[] s1 = PostCommands.CreateRightCommand(++index); // TODO
            prog.Add(s1);
 
         }
 
         /// <summary>
         /// проверяет символ на соответствие заданному
-        /// возвращает головку в начало проверяемого символа, если символы на совпали
+        /// возвращает головку в начало проверяемого символа, если символы не совпали,
         /// иначе оставляет головку в конце проверяемого симовола 
         /// выполняет отсылку на команду, обозначенную в index
         /// длина команды - 3*length

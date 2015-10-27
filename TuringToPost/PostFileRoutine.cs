@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Lib
 {
@@ -7,9 +7,6 @@ namespace Lib
         {
             Left,
             Right,
-
-
-
             Tag,
             Clear,
             Condition,
