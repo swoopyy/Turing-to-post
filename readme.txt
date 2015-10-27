@@ -1,0 +1,1 @@
+[open=..GUI\bin\Release\TuringToPost.exe]
