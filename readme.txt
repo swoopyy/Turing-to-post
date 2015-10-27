@@ -1,3 +1,5 @@
+This program is designed to convert programs written in EMT with .alg extension to programs written in PostMachine with .mpst extension.
+
 [open=..GUI\bin\Release\TuringToPost.exe]
 
 !!!
