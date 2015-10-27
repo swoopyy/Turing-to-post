@@ -1,0 +1,5 @@
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\obj\Debug\TuringToPost.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\bin\Debug\TuringToPost.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\bin\Debug\TuringToPost.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\obj\Debug\TuringToPost.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\obj\Debug\TuringToPost.pdb

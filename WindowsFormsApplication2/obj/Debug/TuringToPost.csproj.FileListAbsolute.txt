@@ -1,0 +1,15 @@
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\TuringToPost.exe.config
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\TuringToPost.exe
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\TuringToPost.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\Lib.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\ЕМТ.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\TuringToPostLib.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\Lib.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\ЕМТ.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Debug\TuringToPostLib.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.Properties.Resources.resources
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.csproj.GenerateResource.Cache
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.exe
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.pdb

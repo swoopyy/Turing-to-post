@@ -1,0 +1,9 @@
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\bin\Release\ЕМТ.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\bin\Release\ЕМТ.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\bin\Release\Lib.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\bin\Release\TuringToPostLib.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\bin\Release\TuringToPostLib.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\bin\Release\Lib.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\obj\Release\ЕМТ.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\obj\Release\ЕМТ.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\ЕМТ\obj\Release\ЕМТ.pdb

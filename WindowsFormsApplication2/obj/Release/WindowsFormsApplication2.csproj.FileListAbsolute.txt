@@ -1,0 +1,15 @@
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\Lib.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\ЕМТ.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\TuringToPostLib.dll
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\Lib.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\ЕМТ.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\bin\Release\TuringToPostLib.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
