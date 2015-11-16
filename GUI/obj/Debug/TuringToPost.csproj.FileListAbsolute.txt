@@ -13,3 +13,18 @@ C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\Win
 C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.csproj.GenerateResource.Cache
 C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.exe
 C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\WindowsFormsApplication2\obj\Debug\TuringToPost.pdb
+D:\git\Turing-to-post\GUI\bin\Debug\TuringToPost.exe.config
+D:\git\Turing-to-post\GUI\obj\Debug\TuringToPost.exe
+D:\git\Turing-to-post\GUI\obj\Debug\TuringToPost.pdb
+D:\git\Turing-to-post\GUI\bin\Debug\TuringToPost.exe
+D:\git\Turing-to-post\GUI\bin\Debug\TuringToPost.pdb
+D:\git\Turing-to-post\GUI\bin\Debug\Lib.dll
+D:\git\Turing-to-post\GUI\bin\Debug\ЕМТ.dll
+D:\git\Turing-to-post\GUI\bin\Debug\TuringToPostLib.dll
+D:\git\Turing-to-post\GUI\bin\Debug\Lib.pdb
+D:\git\Turing-to-post\GUI\bin\Debug\ЕМТ.pdb
+D:\git\Turing-to-post\GUI\bin\Debug\TuringToPostLib.pdb
+D:\git\Turing-to-post\GUI\obj\Debug\TuringToPost.csprojResolveAssemblyReference.cache
+D:\git\Turing-to-post\GUI\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\git\Turing-to-post\GUI\obj\Debug\TuringToPost.Properties.Resources.resources
+D:\git\Turing-to-post\GUI\obj\Debug\TuringToPost.csproj.GenerateResource.Cache

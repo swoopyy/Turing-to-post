@@ -69,9 +69,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(129, 76);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(120, 26);
+            this.label1.Size = new System.Drawing.Size(111, 26);
             this.label1.TabIndex = 3;
-            this.label1.Text = "© swoopy\r\nturingtopost@gmail.com";
+            this.label1.Text = "© swoopy\r\nswoopyyy@gmail.com";
             // 
             // Form1
             // 

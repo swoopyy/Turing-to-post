@@ -96,7 +96,7 @@ namespace WindowsFormsApplication2
                 cl = new SaveClass(new Strip(), prog, text);
                 this.button_saveto.Enabled = true;
                 MessageBox.Show("Converted!");
-            } catch(Exception ex)
+            } catch(ArgumentException ex)
             {
                 MessageBox.Show(ex.Message);
             }

@@ -3,3 +3,8 @@ C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\Tur
 C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\obj\Debug\Lib.dll
 C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\obj\Debug\Lib.pdb
 C:\Users\Кристина\Documents\Visual Studio 2013\Projects\TuringToPost\TuringToPost\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+D:\git\Turing-to-post\TuringToPost\bin\Debug\Lib.dll
+D:\git\Turing-to-post\TuringToPost\bin\Debug\Lib.pdb
+D:\git\Turing-to-post\TuringToPost\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+D:\git\Turing-to-post\TuringToPost\obj\Debug\Lib.dll
+D:\git\Turing-to-post\TuringToPost\obj\Debug\Lib.pdb
